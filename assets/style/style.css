@@ -426,31 +426,24 @@ border-right: none;
 
 @media (max-width: 1250px) {
     .wrapper{
-        margin-left: 45px;
-        margin-right: 45px;
+        margin-left: 20px;
+        margin-right: 20px;
     }
-    .team-list{
-        position: relative;
-        overflow: hidden;
-  
-    }
+
 
 }
 
 @media (max-width: 1024px) {
     .wrapper{
-        padding: 0 25px ;
+        padding: 0 5px ;
     }
 
 }
 
 @media (max-width: 768px) {
-    .menu{
-        display: none;
-    }
     .footer {
-        margin-left: 45px;
-        margin-right: 45px;
+        margin-left: 30px;
+        margin-right: 30px;
         
 
     }
